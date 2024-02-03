@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Your Name
+<!-- # Your Name
 Software Developer | Open Source Enthusiast
 ![Profile Image](url_to_your_image)
 
@@ -48,4 +48,4 @@ Hi, I'm [Your Name], a passionate software developer with a love for coding and 
 - [Project 2](link_to_project2)
 
 ## Profile Views
-![Visitor Count](https://profile-counter.glitch.me/your_username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/your_username/count.svg) -->
