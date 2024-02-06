@@ -1,4 +1,4 @@
-# const 1023 = {
+const 1023 = {
     pronouns: "he" | "him",
     code: [Python, Javascript, Typescript, HTML, CSS],
     tools: [React, Redux, Django, Styled-Components, Docker],
