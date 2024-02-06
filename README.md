@@ -1,5 +1,15 @@
-### Hi there 👋
-
+const 1023 = {
+  pronouns: "he" | "him",
+  code: [Python, Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Django, Styled-Components, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        Member: "CodeAfrika",
+                        speaker: "Tech-Ops",
+                        mentor: "1023 Xc"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 <!--
 **1023LLC/1023LLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
