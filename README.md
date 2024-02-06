@@ -8,7 +8,7 @@
                           speaker: "Tech-Ops",
                           mentor: "1023 Xc"
                         },
- #  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 <!--
 **1023LLC/1023LLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,12 +28,7 @@ Here are some ideas to get you started:
 
 
 
-## Contributions
-![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=your_username)
 
-## Featured Projects
-- [Project 1](link_to_project1)
-- [Project 2](link_to_project2)
 
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/your_username/count.svg) -->
