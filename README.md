@@ -8,34 +8,23 @@
     clientSoftware: [&quot;JavaScript&quot;, &quot;React.js&quot;, &quot;Typescript&quot;],
     serverSoftware: [&quot;Python&quot;, &quot;Django&quot;, &quot;PostGresql&quot;, &quot;Firebase&quot;]
         },
-  languages: [&quot;Italian&quot;, &quot;English&quot;, &quot;Spanish&quot;],
+  architecture: [&quot;microservices&quot;, &quot;event-driven&quot;, &quot;design system pattern&quot;],
   currentFocus: &quot;Creating 'the next big thing' &quot;
 }"><pre><span class="pl-k">const</span> <span class="pl-s1">1023</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
- <span class="pl-c1">fullName</span>: <span class="pl-s">"Julius Nyerere"</span><span class="pl-kos">,</span>
+ <span class="pl-c1">pronouns</span>: <span class="pl-s">'"He" | "Him"'</span><span class="pl-kos">,</span>
  <span class="pl-c1">programmingSkills</span>: <span class="pl-kos">{</span>
-    <span class="pl-c1">clientSoftware</span>: <span class="pl-kos">[</span><span class="pl-s">"JavaScript"</span><span class="pl-kos">,</span> <span class="pl-s">"React.js"</span><span class="pl-kos">,</span> <span class="pl-s">"Next.js"</span><span class="pl-kos">,</span> <span class="pl-s">"Typescript"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+    <span class="pl-c1">clientSoftware</span>: <span class="pl-kos">[</span><span class="pl-s">"JavaScript"</span><span class="pl-kos">,</span> <span class="pl-s">"React.js"</span><span class="pl-kos">,</span> <span class="pl-s">"Vue.js"</span><span class="pl-kos">,</span> <span class="pl-s">"Typescript"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
     <span class="pl-c1">serverSoftware</span>: <span class="pl-kos">[</span><span class="pl-s">"Python"</span><span class="pl-kos">,</span> <span class="pl-s">"Django"</span><span class="pl-kos">,</span> <span class="pl-s">"MongoDB"</span><span class="pl-kos">,</span> <span class="pl-s">"Firebase"</span><span class="pl-kos">]</span>
         <span class="pl-kos">}</span><span class="pl-kos">,</span>
-  <span class="pl-c1">languages</span>: <span class="pl-kos">[</span><span class="pl-s">"French"</span><span class="pl-kos">,</span> <span class="pl-s">"English"</span><span class="pl-kos">,</span> <span class="pl-s">"Kiswahili"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">currentFocus</span>: <span class="pl-s">"Creating 'the next big thing' "</span>
+  <span class="pl-c1">architecture</span>: <span class="pl-kos">[</span><span class="pl-s">"microservices"</span><span class="pl-kos">,</span> <span class="pl-s">"event-driven"</span><span class="pl-kos">,</span> <span class="pl-s">"design system pattern"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+  <span class="pl-c1">currentFocus</span>: <span class="pl-s">"I am curretnlty doing the #100DaysOfCode challenge focused on react and Django"</span>
 <span class="pl-kos">}</span></pre></div>
 <p dir="auto">📫 Contact me on:
 - <a href="www.linkedin.com/in/julius-nyerere-b89906285" rel="nofollow">LinkedIn</a>
 - <a href="https://x.com/ysxvsy" rel="nofollow">Twitter</a></p>
 </article>
 
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+
 
 
 
