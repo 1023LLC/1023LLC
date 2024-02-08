@@ -6,7 +6,7 @@
  fullName: &quot;Gianmarco Ebeling&quot;,
  programmingSkills: {
     clientSoftware: [&quot;JavaScript&quot;, &quot;React.js&quot;, &quot;Typescript&quot;],
-    serverSoftware: [&quot;Python&quot;, &quot;Django&quot;, &quot;PostGresql&quot;, &quot;DRF&quot;]
+    serverSoftware: [&quot;Python&quot;, &quot;Django&quot;, &quot;PostgreSQL&quot;, &quot;DRF&quot;]
         },
   architecture: [&quot;microservices&quot;, &quot;event-driven&quot;, &quot;design system pattern&quot;],
   currentFocus: &quot;Creating 'the next big thing' &quot;
@@ -14,7 +14,7 @@
  <span class="pl-c1">pronouns</span>: <span class="pl-s">'"He" | "Him"'</span><span class="pl-kos">,</span>
  <span class="pl-c1">programmingSkills</span>: <span class="pl-kos">{</span>
     <span class="pl-c1">clientSoftware</span>: <span class="pl-kos">[</span><span class="pl-s">"JavaScript"</span><span class="pl-kos">,</span> <span class="pl-s">"React.js"</span><span class="pl-kos">,</span> <span class="pl-s">"Vue.js"</span><span class="pl-kos">,</span> <span class="pl-s">"Typescript"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-    <span class="pl-c1">serverSoftware</span>: <span class="pl-kos">[</span><span class="pl-s">"Python"</span><span class="pl-kos">,</span> <span class="pl-s">"Django"</span><span class="pl-kos">,</span> <span class="pl-s">"MySQL"</span><span class="pl-kos">,</span> <span class="pl-s">"DRF"</span><span class="pl-kos">]</span>
+    <span class="pl-c1">serverSoftware</span>: <span class="pl-kos">[</span><span class="pl-s">"Python"</span><span class="pl-kos">,</span> <span class="pl-s">"Django"</span><span class="pl-kos">,</span> <span class="pl-s">"PostgreSQL"</span><span class="pl-kos">,</span> <span class="pl-s">"DRF"</span><span class="pl-kos">]</span>
         <span class="pl-kos">}</span><span class="pl-kos">,</span>
   <span class="pl-c1">architecture</span>: <span class="pl-kos">[</span><span class="pl-s">"microservices"</span><span class="pl-kos">,</span> <span class="pl-s">"event-driven"</span><span class="pl-kos">,</span> <span class="pl-s">"design system pattern"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">currentFocus</span>: <span class="pl-s">"I am currently doing the #100DaysOfCode challenge focused on React and Django"</span>
