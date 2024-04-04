@@ -20,7 +20,7 @@
   <span class="pl-c1">currentFocus</span>: <span class="pl-s">"I am currently doing the #100DaysOfCode challenge focused on React and Django"</span>
 <span class="pl-kos">}</span></pre></div>
 <p dir="auto">📫 Contact me on:
-- <a href="[www.linkedin.com/in/julius-nyerere-b89906285](https://www.linkedin.com/in/julius-nyerere-b89906285/)" rel="nofollow">LinkedIn</a>
+- <a href="www.linkedin.com/in/julius-nyerere-b89906285" rel="nofollow">LinkedIn</a>
 - <a href="https://x.com/ysxvsy" rel="nofollow">Twitter</a></p>
 </article>
 
