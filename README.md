@@ -19,15 +19,17 @@
   <span class="pl-c1">architecture</span>: <span class="pl-kos">[</span><span class="pl-s">"microservices"</span><span class="pl-kos">,</span> <span class="pl-s">"event-driven"</span><span class="pl-kos">,</span> <span class="pl-s">"design system pattern"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">currentFocus</span>: <span class="pl-s">"I am currently doing the #100DaysOfCode challenge focused on React and Django"</span>
 <span class="pl-kos">}</span></pre></div>
-<p dir="auto">📫 Contact me on:
-- <a href="https://www.linkedin.com/in/julius-nyerere-b89906285" rel="nofollow">LinkedIn</a>
-- <a href="https://x.com/ysxvsy" rel="nofollow">Twitter</a></p>
+
 
 <a href="https://wakatime.com/@018ce647-2c91-4c5f-ada6-669516aabc4d"><img src="https://wakatime.com/badge/user/018ce647-2c91-4c5f-ada6-669516aabc4d.svg" alt="Total time coded since Mar 6 2023" /></a>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=1023LLC&show_icons=true&locale=en&layout=compact" alt="1023LLC" /></p>
 
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/your_username/count.svg)
+
+<p dir="auto">📫 Contact me on:
+- <a href="https://www.linkedin.com/in/julius-nyerere-b89906285" rel="nofollow">LinkedIn</a>
+- <a href="https://x.com/ysxvsy" rel="nofollow">Twitter</a></p>
 </article>
 
 
