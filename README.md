@@ -22,10 +22,12 @@
 <p dir="auto">📫 Contact me on:
 - <a href="https://www.linkedin.com/in/julius-nyerere-b89906285" rel="nofollow">LinkedIn</a>
 - <a href="https://x.com/ysxvsy" rel="nofollow">Twitter</a></p>
-</article>
 
 <a href="https://wakatime.com/@018ce647-2c91-4c5f-ada6-669516aabc4d"><img src="https://wakatime.com/badge/user/018ce647-2c91-4c5f-ada6-669516aabc4d.svg" alt="Total time coded since Mar 6 2023" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1023LLC&show_icons=true&locale=en&layout=compact" alt="1023LLC" /></p>
+</article>
+
+
 
 
 
